@@ -1,5 +1,4 @@
 #profile-title: Space Gray
 #theme-color: #1c1c1e
 #powerIcon-color: #ffffff
-
 vless://e0beadca-8b9a-4c2d-947b-7b0a75fce44b@172.67.183.109:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=76W3G9qZ_Xj4z_V1Xn_WlW9Y76A3G9qZ_Xj4z_V1Xn8&type=tcp&flow=xtls-rprx-vision#slut
