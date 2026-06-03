@@ -1,0 +1,3 @@
+#profile-title: Space Gray
+#theme-color: #1c1c1e
+#powerIcon-color: #ffffff
